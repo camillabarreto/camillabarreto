@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sempre fui fascinada em jogos de lógica e a programação tem sido um trabalho divertido.
-Sou aluna do curso de Engenharia de Telecomunicações (IFSC - São José)
+Estou cursando Engenharia de Telecomunicações (IFSC - São José).
 
  <br/> :computer: Quais linguagens já tive contato: (logo mais adiciono aqui rs)
  <br/> :blue_book: O que estou aprendendo atualmente: (fazendo curso da NLW sobre Javascript)
