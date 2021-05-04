@@ -12,4 +12,4 @@ Estou cursando Engenharia de Telecomunicações no IFSC campus São José.
 | 
 [![Gmail Badge](https://img.shields.io/badge/-camillabarretodesousa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillabarretodesousa@gmail.com)](mailto:camillabarretodesousa@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillabarreto&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillabarreto&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
