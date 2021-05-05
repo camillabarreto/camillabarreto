@@ -1,14 +1,14 @@
 # Camilla Barreto de Sousa
 
-## Olá pessoal 👋
+## Hello Buddy 👋
 
-Sempre fui fascinada em jogos de lógica e a programação tem sido um trabalho divertido.
-Estou cursando Engenharia de Telecomunicações no IFSC campus São José.
+I have always been fascinated by logic games and programming has been fun work. 
+I am studying Telecommunications Engineering at the São José campus of IFSC.
 
- <br/> :mortar_board: Cursos concluídos: Técnico em Telecomunicações (IFSC - São José).
- <br/> :computer: Quais linguagens já tive contato: C, C++, Java, Python, VHDL, MATLAB/Octave, Javascript, CSS, HTML.
-<br/> :blue_book: O que estou aprendendo atualmente: além das disciplinas da Eng de Telecom estou praticando Python.
-<br/> :email: &nbsp;Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CamillaBarreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-barreto-de-sousa-26ab53171/)](https://www.linkedin.com/in/camilla-barreto-de-sousa-26ab53171/ ) 
+ <br/> :mortar_board: Completed courses: Telecommunications Technician (IFSC - São José).
+ <br/> :computer: Which languages I had contact with: C, C ++, Java, Python, VHDL, MATLAB / Octave, Javascript, CSS, HTML.
+<br/> :blue_book: What I am currently learning: in addition to the Telecom Engineering disciplines, I am practicing Python.
+<br/> :email: &nbsp;Contact me: [![Linkedin Badge](https://img.shields.io/badge/-CamillaBarreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-barreto-de-sousa-26ab53171/)](https://www.linkedin.com/in/camilla-barreto-de-sousa-26ab53171/ ) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-camillabarretodesousa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillabarretodesousa@gmail.com)](mailto:camillabarretodesousa@gmail.com)
 
