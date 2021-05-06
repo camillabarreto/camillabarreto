@@ -12,7 +12,7 @@ I am studying Telecommunications Engineering at the São José campus of IFSC.
 | 
 [![Gmail Badge](https://img.shields.io/badge/-camillabarretodesousa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillabarretodesousa@gmail.com)](mailto:camillabarretodesousa@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillabarreto&layout=compact&theme=onedark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillabarreto&layout=compact&theme=onedark&langs_count=5&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Languages and Tools: -->
 
