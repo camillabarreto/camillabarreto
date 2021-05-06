@@ -1,12 +1,13 @@
 # Camilla Barreto de Sousa
 
-## Hello Buddy 👋
+## Hey Buddy :call_me_hand:
 
 I have always been fascinated by logic games and programming has been fun work. 
 I am studying Telecommunications Engineering at the São José campus of IFSC.
 
- <br/> :mortar_board: Completed courses: Telecommunications Technician (IFSC - São José).
- <br/> :computer: Which languages I had contact with: C, C ++, Java, Python, VHDL, MATLAB / Octave, Javascript, CSS, HTML.
+<br/> :nerd_face: Pronouns: she/her
+<br/> :mortar_board: Completed courses: Telecommunications Technician (IFSC - São José).
+<br/> :computer: Which languages I had contact with: C, C ++, Java, Python, VHDL, MATLAB / Octave, Javascript, CSS, HTML.
 <br/> :blue_book: What I am currently learning: in addition to the Telecom Engineering disciplines, I am practicing Python.
 <br/> :email: &nbsp;Contact me: [![Linkedin Badge](https://img.shields.io/badge/-CamillaBarreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-barreto-de-sousa-26ab53171/)](https://www.linkedin.com/in/camilla-barreto-de-sousa-26ab53171/ ) 
 | 
