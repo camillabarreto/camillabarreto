@@ -15,7 +15,7 @@ I am studying Telecommunications Engineering at the São José campus of IFSC.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillabarreto&layout=compact&theme=onedark&langs_count=5&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camillabarreto&layout=compact&theme=onedark&langs_count=5&hide_border=true&title_color=B0E0E6	)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### Languages and Tools: -->
